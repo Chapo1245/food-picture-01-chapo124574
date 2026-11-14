@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Food-picture-01 entry: copy the bundled food picture to /output/entry.png.
 
-The picture is entry.png beside this file (JPEG bytes, 1024x683).
+The picture is entry.png beside this file (JPEG bytes, 1024x683,
+147180 bytes for variant C, 124480 for variant B, 169107 for variant A).
 The program does a plain byte copy: no network, no randomness, no clock, so
 two runs write exactly the same bytes.
 """
