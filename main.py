@@ -2,7 +2,9 @@
 """Food-picture-01 entry: copy the bundled food picture to /output/entry.png.
 
 The picture is entry.png beside this file (JPEG bytes, 1024x683,
-147180 bytes for variant C, 124480 for variant B, 169107 for variant A).
+169107 bytes): a hand lifting a margherita pizza slice, long molten
+mozzarella strands pulling from the slice — the strongest hunger trigger
+of the three variants tried (pancakes, lava cake, pizza cheese pull).
 The program does a plain byte copy: no network, no randomness, no clock, so
 two runs write exactly the same bytes.
 """
